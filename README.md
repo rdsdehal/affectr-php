@@ -13,7 +13,7 @@ The following packages are used:
 "mashape/unirest-php": "1.2.1"
 ```
 
-To install the above packages with `composer`:
+Install the above packages with `composer`:
 
 ```
 php composer.phar install
