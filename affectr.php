@@ -1,5 +1,5 @@
 <?php
-  require_once 'underscore.php';
+  require_once 'vendor/underscore/underscore.php/underscore.php';
 
   function outputAdvertisement($analysis, $text) {
     echo "**** Advertisement detection ****\n";

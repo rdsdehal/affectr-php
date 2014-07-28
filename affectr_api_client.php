@@ -1,7 +1,7 @@
 <?php
   require_once 'affectr.php';
   require_once 'texts.php';
-  require_once 'unirest-php/lib/Unirest.php';
+  require_once 'vendor/mashape/unirest-php/lib/Unirest.php';
 
   if (is_null($argv[1])) { exit("No API username provided."); }
   if (is_null($argv[2])) { exit("No API password provided."); }
