@@ -5,8 +5,8 @@ A simple PHP client for [TheySay AffectR API](http://docs.theysay.apiary.io).
 
 # Dependencies
 
-The client has been tested on [PHP 5.3.15](https://npmjs.org/) on `OS X 10.8.2`.
-The following packages are used:
+The client has been tested on `PHP 5.3.15` on `OS X 10.8.2`.
+The following additional packages are used:
 
 ```
 "underscore/underscore.php": "1.3.1"
