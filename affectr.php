@@ -165,7 +165,7 @@
       })
     );
 
-    echo $print, "\n";
+    echo $print, "\n\n";
   }
 
   function outputRisk($analysis, $text) {
