@@ -18,6 +18,7 @@
   define("ENDPOINT_GENDER", BASE_URL . "/gender");
   define("ENDPOINT_HUMOUR", BASE_URL . "/humour");
   define("ENDPOINT_INTENT", BASE_URL . "/intent");
+  define("ENDPOINT_MULTILINGUAL_SENTIMENT", BASE_URL . "/multilingual/sentiment");
   define("ENDPOINT_NAMED_ENTITIES", BASE_URL . "/namedentity");
   define("ENDPOINT_POS_TAG", BASE_URL . "/postag");
   define("ENDPOINT_RISK", BASE_URL . "/risk");
@@ -62,6 +63,22 @@
   function callGender($text) {
     $response = call(ENDPOINT_GENDER, array("text" => $text));
     outputGender($response->body, $text);
+  }
+
+  function callGermanSentimentDocument($text) {
+    $response = call(
+      ENDPOINT_MULTILINGUAL_SENTIMENT,
+      array("language" => "de", "text" => $text)
+    );
+    outputSentimentDocument($response->body, $text);
+  }
+
+  function callGermanSentimentSentence($text) {
+    $response = call(
+      ENDPOINT_MULTILINGUAL_SENTIMENT,
+      array("language" => "de", "level" => "sentence", "text" => $text)
+    );
+    outputSentimentSentence($response->body, $text);
   }
 
   function callHumourDocument($text) {
@@ -124,6 +141,8 @@
   callEmotionDocument($text10);
   callEmotionSentence($text10);
   callGender($text12);
+  callGermanSentimentDocument($text14);
+  callGermanSentimentSentence($text15);
   callHumourDocument($text11);
   callHumourSentence($text11);
   callIntent($text3);

@@ -71,12 +71,12 @@
   // Text adapted from https://www.patientopinion.org.uk/opinions/150728
   $text10 = "After being referred to Psychiatric Liason whilst being in CDU overnight and experiencing really bad anxiety/depression, I continued to see the Consultant Psychiatrist as an out-patient. \n" .
     "I cannot praise him enough for his warmth, empathy and support. \n" .
-    "He saw me through an extremely difficult time and really went out of his way to help me. \n" . 
+    "He saw me through an extremely difficult time and really went out of his way to help me. \n" .
     "As an ex-Psychiatric nurse myself I know the importance of treating someone with respect, dignity and care and this I truly received in abundance. \n" .
     "Many thanks to him and his secretary for their always pleasant manner and excellent care.";
 
   // Text adapted from http://www.laughfactory.com/jokes/relationship-jokes
-  $text11 = "After Brian proposed to Jill, his father took him to one side. \n" . 
+  $text11 = "After Brian proposed to Jill, his father took him to one side. \n" .
     "\"Son, when I first got married to your mother, the first thing I did when we got home was take off my pants. \n" .
     "I gave them to your mother and told her to try them on, which she did. \n" .
     "They were huge on her and she said that she couldn't wear them because they were too large. \n" .
@@ -86,18 +86,18 @@
     "Then, Jill took off her panties and gave them to Brian. \n" .
     "\"Try these on,\" she said. \n" .
     "Brian went along with it and tried them on, but they were far too small. \n" .
-    "\"What's the point of this? I can't get into your panties,\" said Brian. \n" . 
+    "\"What's the point of this? I can't get into your panties,\" said Brian. \n" .
     "\"Exactly,\" Jill replied, “and if you don't change your attitude, you never will!\"";
 
   // Text adapted from http://www.womens-health.com/boards/beauty-tips/59970-tips-have-long-hair.html
-  $text12 = "I have long hair. \n" . 
+  $text12 = "I have long hair. \n" .
     "I don't think there are any home remedies or special oils that will really make hair grow longer faster. \n" .
     "Oils like argan oil will help keep your hair shiny, healthy and keep it from drying out and make it look better. \n" .
     "But they won't make it grow faster. \n" .
     "Only time and patience in letting it grow out. \n" .
     "Hair normally grows about 3 inches a year. \n" .
     "I get 1/2 inch trimmed every 6 months, just to keep it healthy. \n" .
-    "The only thing that I can recommend that works for hair health is Biotin. \n" . 
+    "The only thing that I can recommend that works for hair health is Biotin. \n" .
     "I take 10,000mg of Biotin every day. \n" .
     "This doesn't make your hair grow faster, but it does make it grow thicker and healthier. \n" .
     "It will take about 3-6 months however for you to notice the difference.";
@@ -105,4 +105,30 @@
   $text13 = "3 Days Only - $99 and up flights during this unique campaign \n" . 
     "Sale \n" .
     "Book Flights Starting at Just $99 One-Way. Offer expires on 04/22/2012.";
+
+  // Text adapted from http://www.spiegel.de/politik/ausland/mazedonien-europas-naechster-krisenstaat-a-1034413.html
+  $text14 = "Die Stimme des jungen Mannes zittert noch immer, wenn er von dem Angriff der schwerbewaffneten Spezialtruppen berichtet. \n" .
+    "Dshemaledin Azemi, 24, lebt mit seiner Familie in der nordmazedonischen Stadt Kumanovo. \n" .
+    "Am Morgen des 9. Mai hörte er Schüsse, kurz darauf geriet auch das Gebäude unter Feuer, in dem er mit seiner Familie wohnt.  \n" .
+    "13 Stunden hat der Angriff gedauert, wir haben uns die ganze Zeit im Haus versteckt, erzählt Azemi. \n" .
+    "Ich habe keine Ahnung, warum sie das getan haben, sagt er, wir sind doch keine Terroristen! \n" .
+    "Polizei und Armee durchsuchen an jenem Tag ein von Albanern bewohntes Viertel der 70.000-Einwohner-Stadt Kumanovo nach mutmaßlichen albanischen Terroristen, die angeblich Attentate planen. \n" .
+    "Die Lage eskaliert. \n" .
+    "Bei Feuergefechten, die bis zum nächsten Tag dauern, sterben zahlreiche Menschen, Dutzende Häuser werden zerstört. \n" .
+    "Am Ende bleiben vor allem Fragen: Wie viele Menschen starben, wer sind die Toten, wer die angeblichen Terroristen? \n" .
+    "Und: Hat die Regierung des rechtsnationalistischen Ministerpräsidenten Nikola Gruevski den Anti-Terror-Einsatz inszeniert, um von der wachsenden Unzufriedenheit im Land abzulenken? \n" .
+    "Fest steht: Seit den Kämpfen in Kumanovo befindet sich Mazedonien auf dem Höhepunkt einer bereits länger andauernden schweren Staatskrise. \n" .
+    "Unter der Herrschaft von Gruevski, der seit 2006 regiert, ist Mazedonien in diktatorische und mafiöse Verhältnisse abgeglitten. \n" .
+    "\"Die Grenze zwischen Regierung und organisierter Kriminalität ist in Mazedonien - wie in den meisten Ländern der Region - fließend, Rechtsbruch und Kriminalität gehen direkt aus dem Staat hervor\", sagt der Balkan-Experte Dusan Reljic von der \"Stiftung Wissenschaft und Politik\" (SWP) in Berlin. \n" .
+    "Am vergangenen Sonntag demonstrierten in der mazedonischen Hauptstadt deshalb Zehntausende Menschen gegen die Regierung von Gruevski und verlangten ihren Rücktritt, einige hundert Menschen belagern seitdem das Regierungsgebäude. \n" .
+    "Schon steht das Szenario eines neuen Bürgerkrieges auf dem Westbalkan im Raum. \n";
+
+  // Text adapted from http://www.tripadvisor.de/Restaurant_Review-g187373-d7297488-Reviews-O_Reilly_s_Irish_Pub_Dusseldorf-Dusseldorf_North_Rhine_Westphalia.html
+  $text15 = "Wir gingen zu der neuen Lage Nachdem ich visite in Frankfrurt, das Personal war großartig, das Essen war großartig und ein toller Ort, um im Wind. \n" .
+    "Das Essen war exzellent und die Getränke, tolle Atmosphäre, super schönes und professionelles Personal! \n" .
+    "Toller Ort, um ein Spiel, ein Abendessen oder einfach nur einen unterhaltsamen Abend holen! \n" .
+    "Es ist ein wunderschöner Ort für ein Guinness zu gehen. \n" .
+    "Ich versuchte die Ribs-n-Wings Teller und war sehr beeindruckt. \n" .
+    "\"Tolle Atmosphäre, großartigen Sport, großartiges Essen\" \n" .
+    "Ich habe nicht den Rest von der Speisekarte probiert, aber ich würde sagen, es ist eine riesige Verbesserung...";
 ?>
