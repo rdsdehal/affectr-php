@@ -9,7 +9,7 @@
   define("USR", $argv[1]);
   define("PWD", $argv[2]);
 
-  define("BASE_URL", "http://api.theysay.io/v1");
+  define("BASE_URL", "https://api.theysay.io/v1");
   define("ENDPOINT_ADVERTISEMENT", BASE_URL . "/ad");
   define("ENDPOINT_CHUNK_PARSE", BASE_URL . "/chunkparse");
   define("ENDPOINT_COMPARISON", BASE_URL . "/comparison");
